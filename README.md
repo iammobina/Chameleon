@@ -10,6 +10,10 @@ And if the number of stars he has collected exceeds 100 stars, it will be given 
 This game is inspired by color switch game in which the player crosses obstacles by changing the color, color switch is my main competitor in this area, but by adding different features to the game, I try to have more advantages than this game and a more attractive environment and Make it more fun.
 
 
+## Game Design Document 
+The GDD is written in Persian.(will be translated soon!!)
+[View the GDD for more information ](GDD_MobinaKashanian.pdf)
+
 ## Language
 The project is written in C#(Unity).
 
