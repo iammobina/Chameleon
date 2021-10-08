@@ -12,6 +12,7 @@ This game is inspired by color switch game in which the player crosses obstacles
 
 ## Game Design Document 
 The GDD is written in Persian.(will be translated soon!!)
+
 [View the GDD for more information ](GDD_MobinaKashanian.pdf)
 
 ## Language
