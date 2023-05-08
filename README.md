@@ -1,4 +1,4 @@
-# Chameleon  
+# Chameleon 👀🔥
 
 The game starts with the presence of a chameleon named Hobbin. The main feature of chameleons is that
 They are the same color as the environment, but Hobbin in this game has more features than a normal chameleon.
